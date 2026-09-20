@@ -1,0 +1,20 @@
+# Large dataset
+data/raw/amazon_products.csv
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+.env
+
+# Model files
+*.pkl
+*.joblib
+*.h5
+*.keras
